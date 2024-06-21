@@ -1,5 +1,6 @@
-// Create a Person class with name and age properties.
-// Implement a method to return the person's name.
+// 1. Create a Person class with name and age properties.
+/* 2. Add a private property socialSecurityNumber to the Person class and a method 
+to get the age.*/
 class Person {
   name: string;
   age: number;
