@@ -1,5 +1,5 @@
 // Declare a variable that holds a string value without explicitly stating its type
-let myString = "Hello, TypeScript";
+let myString = "Hello, Chadrack";
 
 // Declare a variable that holds a number value and explicitly state its type
 let myNumber: number = 42;
